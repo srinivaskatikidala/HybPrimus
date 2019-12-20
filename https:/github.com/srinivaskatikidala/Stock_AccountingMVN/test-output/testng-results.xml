@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23839" started-at="2019-12-20T04:57:53Z" finished-at="2019-12-20T04:58:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23839" started-at="2019-12-20T04:57:53Z" finished-at="2019-12-20T04:58:17Z">
+      <class name="DriveFactory.AppTest">
+        <test-method status="PASS" signature="kickstart()[pri:0, instance:DriveFactory.AppTest@13deb50e]" name="kickstart" duration-ms="23825" started-at="2019-12-20T10:27:53Z" finished-at="2019-12-20T10:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kickstart -->
+      </class> <!-- DriveFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
